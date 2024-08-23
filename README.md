@@ -4,7 +4,7 @@ Used for maintaining the governing documents of the Capitol Valley Forensics Lea
 
 The files here are *not* the source of truth for these documents. These files are intermediaries, used to help show the differences between revisions.
 
-For official documentation details, see the CVFL website at cvfl.org/constitution.
+For official documentation details, see the CVFL website at https://www.cvfl.org/constitution.
 
 ## Stuff for Nerds
 
