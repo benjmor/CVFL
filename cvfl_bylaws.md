@@ -1,4 +1,4 @@
-# By-Laws of the Capitol Valley Forensic League
+# By-Laws of the Capitol Valley Forensics League
 
 ## Article I: Finance
 
