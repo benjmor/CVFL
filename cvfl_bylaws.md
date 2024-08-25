@@ -99,8 +99,8 @@ A.  Shall be the administrator of the CVFL funds according to the Constitution a
     8. Presenting CVFL with financial statements and a budget reports as required
     9. Providing for official assessment accounting in the December meeting of the Council for use in the allocation of qualifiers
     10. Submitting all records and accounts to the President at the conclusion of the Treasurer’s term of office
-B.  Shall attend all of the meetings of the Council.
-C.  Shall complete other tasks or duties of a special nature as directed either by the President or the Council
+A.  Shall attend all of the meetings of the Council.
+A.  Shall complete other tasks or duties of a special nature as directed either by the President or the Council
 
 ### Section 4: Secretary
 A.  The primary duty of the secretary shall be to record and distribute the minutes of the meetings of the Council including the following:
@@ -207,6 +207,47 @@ A.  Trophies of descending size shall be awarded to the top three finalists in e
     1. Pins, or other small awards, will be awarded to the 4th through 7th place in each speech event. Further place awards may be given (up to one-third of the field) at the discretion of the President.
     2. Trophies will be given to the undefeated Debate teams.
     3. Award recipients shall appear in tournament dress.  Student not dressed appropriately will be asked to sit down; their coach may pick up their awards after the ceremony concludes.
+A.  Sweepstakes Awards
+    1. Each tournament’s award ceremony shall include recognition of team sweepstakes awards.
+    1. The tournament tabulation team will be responsible for generating all sweepstakes-related result reports.
+    1. The top 5 schools shall be announced for sweepstakes results, with the top school earning custody of the traveling sweepstakes trophy. This trophy can be an informal trophy, like a broom (to represent the "sweeps" win). The winning school is required to return the traveling trophy at the start of the next league tournament.
+    1. State-qualifying tournaments will combine the sweepstakes points earned from all state-qualifying tournaments and award the trophy at the conclusion of the final qualifying tournament. This team earns the title of 'league champion' for the competitive season.
+    1. Sweepstakes awards are not tabulated for NSDA qualifying tournaments, as NSDA has their own mechanism ("trophy points") for school performance.
+    1. Sweepstakes awards are based solely on a school’s performance in the guaranteed ("prelim") rounds of a tournament.
+    1. Each entry earns points per round of competition:
+        i.  Debate: Win = 6 points, Bye = 4 points, Loss = 3 points
+        i.  Congress: 9 points minus rank in the round (eg. 1st = 8 points), minimum 2 points
+        i.  Presiding Officer: 4 points per round presided
+        i.  Speech: 7 points minus rank in the round (eg. 1st = 6 points), minimum 2 points
+    1. School Sweepstakes awards are calculated based on the sum of the school’s top 6 entries for debate, and top 10 entries for speech.
+        i.  Note: this structure ensures that bringing more students helps a team’s sweepstakes performance, but that large schools do not automatically win by virtue of having the most entries.
+    1. Novice and Varsity entries both count toward sweepstakes points; there are not separate categories for Novice and Varsity sweepstakes.
+    1. Additional sweepstakes awards for small schools (with lower numbers of entries) can be recognized, at the discretion of the league President.
+A.  Team MVP Awards
+    1. Each tournament’s award ceremony shall include a "Team MVP" section, highlighting the top sweepstakes points-earner from each school.
+    1. Team MVP is calculated on an entry-by-entry basis. Double-entering does NOT improve a student’s Team MVP score (eg. a student who earns 7 points in Dramatic will earn MVP over a double-entered student from the same school that earns 4 sweepstakes points in Impromptu and 5 sweepstakes points in Oratory).
+    1. In the event of a tie, recognize all tied entries from the school.
+    1. There is no requirement for a physical award for Team MVPs. The league can offer a small award for Team MVPs, such as a pin or sticker, at the discretion of the Vice President. However, it is just as acceptable to ask Team MVPs to rise when their name is called, single-clap them, and then have them remain standing for a round of applause once all MVPs are standing.
+A.  Spirit of Speech and Debate Award
+    1. Each tournament’s award ceremony shall include verbal recognition of a team award called the Spirit of Speech and Debate Award.
+    1. Each school at a tournament is allowed to nominate one other school for this award.
+    1. The league Secretary, or their proxy, shall send a nomination form for this award to participating schools prior to the start of the tournament, including instructions on the nomination criteria
+        i.  These criteria include sportsmanship, inclusion, supportiveness, collegiality, and community-building.
+        i.  The nomination form shall include a short-answer response to allow for nominators to call out specific positive behaviors
+    1. Nominations for Spirit of Speech and Debate must be submitted 30 minutes prior to the actual start of the awards ceremony.
+    1. The secretary has discretion to disregard nominations that seem improper or that do not align to the spirit of the award. In the event of multiple award nominees, the secretary may choose a nominated school based on the quantity and quality of nominations for a given school.
+    1. The winner shall be announced at the tournament's awards ceremony. There is no physical award associated with this award. It is just a recognition of good community-building. The winner can be posted on the Tabroom website, if desired.
+A.  Outstanding Judge Award
+    1. At the conclusion of each tournament, no later than 12PM the day after the tournament’s end, the league Secretary shall send a nomination form to coaches, to be used for nominating outstanding judges.
+    1. Students and coaches can each nominate outstanding judges, with no limit on the number of submissions.
+    1. Outstanding judges should be nominated based on providing helpful, encouraging, and thoughtful feedback.
+    1. The submission form shall include a short answer field to call out specific helpful or encouraging feedback.
+    1. Nominations for outstanding judges ends at 11:59PM on the Wednesday following each tournament.
+    1. Nominated outstanding judges should be notified via email of their nomination by the Friday following a tournament’s conclusion.
+    1. Every judge nominated for this award is a "winner" of the award. There is no ordinal ranking of "1st-most outstanding judge".
+    1. There is no physical award for outstanding judges. The secretary’s email should be sent to all coaches to provide recognition for the judges' achievements. This award is not announced at awards ceremonies.
+    1. The league can review outstanding judges’ ballots for use in training materials of what good feedback looks like.
+
 A.  The President’s Award shall be given to all 4 year competitors who have qualified for at least one CHSSA or NSDA tournament.
 A.  CVFL All-League Award (Orator's Cup)
     1. Awarded to the top 7 competitors in the league as nominated and voted upon by the CVFL coaches
@@ -214,7 +255,7 @@ A.  CVFL All-League Award (Orator's Cup)
     3. Voting shall commence online via a digital platform selected and controlled by the league Secretary, with only one coach representing each school casting a total of 5 votes.
     4. Winners shall be announced at the Speech Events State Qualifier.
     5. CVFL Secretary will compile nominations and votes for delivery to the President as soon as voting closes.
-    6. Award given shall be named “Orator’s Cup” 
+    6. Award given shall be named "Orator’s Cup".
 
 ### Section 4: Registration
 A.  Coaches will send their registration via the Tabroom.com website thirty-six hours prior to the tournament.
