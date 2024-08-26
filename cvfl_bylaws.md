@@ -271,12 +271,14 @@ A.  No Capitol  Valley Forensics League coach or official shall disclose that a 
 
 ## Article VII: Initiative and Referendum Process
 
-### Section 1:  Any coach of a member school of the CVFL may request a change in the CVFL Constitution or By-laws through petition and referendum process
+### Section 1: By-Law and Constitution Changes
 
-### Section 2:  The coach shall submit a copy of the proposed and/or change to the CVFL President prior to the time the matter is brought up at a League meeting.
+A.  Any coach of a member school of the CVFL may request a change in the CVFL Constitution or By-laws through petition and referendum process.
 
-### Section 3:  The President shall submit the proposal to a League meeting during one of the tournaments or via e-mail.  The proposer shall have the opportunity to explain the necessity or justification for such change. 
+A.  The coach shall submit a copy of the proposal and/or change to the CVFL President, indicating whether they are for discussion at a league meeting or over digital channels. For proposals intended for discussion at league meetings, proposers shall send proposals at least 24 hours before the meeting start time; proposals after this time may be ignored at the President's discretion.
 
-### Section 4:  Each member school shall have one vote. The votes shall be in writing. The votes shall be tabulated by the Secretary. The President shall announce the vote as soon as is practicable.
+A.  The President shall submit the proposal to a league meeting or via e-mail to league members. The proposer shall have the opportunity to explain the necessity or justification for such change. 
 
-### Section 5: Changes made in these By-laws shall be in effect when approved by a majority vote of the League members at a meeting. A copy of the change indicating exact wording of said change shall be delivered to each coach within two weeks of the change or prior to the next tournament, whichever is sooner.
+A.  Each member school shall have one vote. The votes shall be in writing or conducted on a digital platform chosen by the Secretary. For digital votes, the Secretary shall establish and announce the deadline for voting, typically at least one week. The votes shall be tabulated by the Secretary. The President shall announce the vote as soon as is practicable.
+
+A.  Changes made in these By-laws shall be in effect when approved by a majority vote of the league members. A copy of the change indicating exact wording of said change shall be delivered to each coach within two weeks of the change or prior to the next tournament, whichever is sooner.
