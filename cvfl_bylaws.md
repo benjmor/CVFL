@@ -199,7 +199,7 @@ A.  In Debate one judge shall be used in all rounds with the exception of qualif
 A.  Congress shall have 2 judges in preliminary rounds and 3 judges in the final round.
 A.  Each member school is allowed one judging strike per tournament submitted confidentially to the league president.
 A.  Schools are required to provide judges one round past where their competitors drop.
-A.  All former competitors are required to be at least 1 full year out of high school before judging any league tournament.
+A.  All former competitors are required to be at least 1 full year out of high school before judging non-novice events at league tournaments.
 
 ### Section 3: Awards
 A.  The Vice President of CVFL shall be responsible for ordering the awards.
