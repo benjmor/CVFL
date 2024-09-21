@@ -1,4 +1,4 @@
-# By-Laws of the Capitol Valley Forensics League
+# By-Laws of the Capitol Valley Forensic League
 
 ## Article I: Finance
 
@@ -247,8 +247,8 @@ A.  The term reasonable accommodation means:
 A.  Any competitor may request a reasonable accommodation if such an accommodation is necessary for the competitor to enjoy an equal opportunity to compete.
 A.  Each request for an accommodation shall be reviewed on a case-by-case basis. The competitor, competitor’s coach and/or competitor’s parent will be involved in the process of determining potential reasonable accommodations. 
 A.  Requests for reasonable accommodation shall specify the nature of the disability, the accommodation requested and the relationship between the disability and the requested accommodation.  The competitor shall not be required to disclose a medical diagnosis.  The CVFL has a Reasonable Accommodation Request Form which is recommended, but not required.
-A.  Requests for reasonable accommodation shall be made to the Capitol Valley Forensics League President.  Requests made more than 10 days prior to a tournament will be decided prior to the beginning of that tournament.
-A.  The Capitol Valley Forensics League President, or his or her designee, may grant the accommodation, request verification or discuss alternatives to the requested accommodation with the competitor, competitor’s coach and/or competitor’s parent.
+A.  Requests for reasonable accommodation shall be made to the Capitol Valley Forensic League President.  Requests made more than 10 days prior to a tournament will be decided prior to the beginning of that tournament.
+A.  The Capitol Valley Forensic League President, or his or her designee, may grant the accommodation, request verification or discuss alternatives to the requested accommodation with the competitor, competitor’s coach and/or competitor’s parent.
 A.  The league president may request verification of the nature of the disability and/or the relationship between the disability and requested accommodation.  Factors to be considered before requesting verification include: 
     1. Is the competitors known to have a disability? 
     2. Does the competitor have an observable disability?
@@ -257,9 +257,9 @@ A.  The league president may deny a reasonable accommodation request only if dis
     1. The competitor’s condition does not meet the definition of disability.
     2. The competitor’s disability is not related to the requested accommodation.
     3. The requested accommodation is a fundamental alteration of the activity. 
-    4. The requested accommodation is an undue burden on the Capitol Valley Forensics League. 
+    4. The requested accommodation is an undue burden on the Capitol Valley Forensic League. 
     5. Any other reason allowed by the Americans with Disabilities Act or the California Unruh Civil Rights Act.
-A.  If a request for reasonable accommodation is denied, the competitor may appeal to the three person Capitol Valley Forensics League reasonable accommodation committee.
+A.  If a request for reasonable accommodation is denied, the competitor may appeal to the three person Capitol Valley Forensic League reasonable accommodation committee.
 
 
 ### Section 3. Effect of granting reasonable accommodation
@@ -268,7 +268,7 @@ A.  If an accommodation that changes the conduct of competition rounds is grante
 
 ### Section 4. Confidentiality
 
-A.  No Capitol Valley Forensics League coach or official shall disclose that a competitor has requested a reasonable accommodation beyond what is necessary for the operation of Capitol Valley Forensics League tournaments.  Judges who are informed of a reasonable accommodation shall be instructed not to disclose the fact of or the nature of any disability or accommodation.
+A.  No Capitol Valley Forensic League coach or official shall disclose that a competitor has requested a reasonable accommodation beyond what is necessary for the operation of Capitol Valley Forensic League tournaments.  Judges who are informed of a reasonable accommodation shall be instructed not to disclose the fact of or the nature of any disability or accommodation.
 
 ## Article VII: Initiative and Referendum Process
 
