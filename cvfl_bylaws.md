@@ -11,14 +11,15 @@ A.  School assessments: All schools shall pay $150 per year for CVFL membership.
     4. November 1st of each year shall be the deadline for payment. A late fee of $50 shall be assessed for payment after November 1st.
 
 A.  Tournament Fees: Contestant schools in a CVFL Tournament shall pay fees as outlined below.
-    1. All entry fees for regular tournaments for the league schedule shall be $6 per person per event.
-    2. Entry fees for any two-day tournament (eg: qualifying tournaments) shall be $10 per person per event.
-    3. All tournament entry fees before January first of any year must be paid by January 10th in order to compete in future tournaments. Failure to comply will result in delinquent status.
+    1. All entry fees for regular tournaments for the league schedule shall be established by the CVFL board at a CVFL meeting before the school year begins. Entry costs for two-day tournaments may be higher than single-day tournaments.
+        i.  If the board does not select a value for entry fee costs, the value from the prior year will be used.
+    2. All tournament entry fees before January first of any year must be paid by January 10th in order to compete in future tournaments. Failure to comply will result in delinquent status.
 
-A.  Judging Quota: Each school entering a tournament shall be required to provide one judge per every four entries. Failure to do this will result in the drop of competitors who are entered beyond the quota of judges present at the beginning of the tournament.  This provision may not be waived by payment of a fine.
+A.  Judging Quota: Each school entering a tournament shall be required to provide judging based on the type of event and number of entries that they bring. Failure to do this will result in the drop of competitors who are entered beyond the quota of judges present at the beginning of the tournament.  This provision may not be waived by payment of a fine.
 
 A.  Judges Food Reimbursement
-    1.  Host schools will be reimbursed no more than $450 for judge’s food expenses.
+    1.  Host schools will be reimbursed for food for judges, but no more than an amount established by the board at a CVFL meeting before the school year.
+    2. If the board does not select a reimbursement cap, the value from the prior year will be used.
 
 A.  Delinquent Payments
     1.  Schools whose assessments and/or entry fees are delinquent forfeit CVFL Privileges including:
@@ -115,14 +116,14 @@ A.  Shall complete other tasks or duties of a special nature as directed either 
 
 ### Section 1: During the preliminary season the league will alternate between debate tournaments and A/B speech tournaments, offering three of each.
 A.  A panel events include:
-    1. Original Oratory, Expository, Humorous Interpretation, Thematic Interpretation, Duo Interpretation, and Impromptu
+    1. Original Oratory, Informative, Humorous Interpretation, Program Oral Interpretation, Duo Interpretation, and Impromptu
 A.  B panel events include:
-    1. Original Advocacy, Original Prose Poetry, Oratorical Interpretation, Dramatic Interpretation, and Extemporaneous
+    1. Original Advocacy, Original Prose & Poetry, Oratorical Interpretation, Dramatic Interpretation, National Extemporaneous, and International Extemporaneous
 A.  Debate events include:
-    1. Policy, Parliamentary, Public Forum, Lincoln Douglass, and Congress.
+    1. Policy, Parliamentary, Public Forum, Lincoln-Douglas, and Congress.
 A.  Debate Topics
     1. Policy and Public Forum shall follow the topics as designated by the NSDA and announced on www.speechanddebate.org  
-    2. Lincoln Douglas shall use the September/October NSDA topic announced August 15th during preliminary tournaments and the March/April topic announced February 1st during qualifiers
+    2. Lincoln-Douglas shall use the September/October NSDA topic announced August 15th during preliminary tournaments and the March/April topic announced February 1st during qualifiers.
     3. Parliamentary will change at each tournament and shall include topics of policy, value, and fact.
     4. Congress topics will be released two weeks before the tournament date.
 
@@ -131,8 +132,8 @@ A.  Debate Topics
 A.  All students who are ninth through twelfth grade must be enrolled in and attending a member school and be in compliance with CHSSA eligibility requirements to attend league tournaments.
 A.  Students must participate in one “like” event in a league tournament in the 
 current school year in order to participate in the State Qualifier. Like events are defined as:
-    1. Interpretative events (humorous, thematic, dramatic, oratorical, duo)
-    2. Original events (original oratory, original advocacy, original prose/poetry, expository)
+    1. Interpretative events (humorous, program oral, dramatic, oratorical, duo)
+    2. Original events (original oratory, original advocacy, original prose/poetry, informative)
     3. Spontaneous events (National Extemporaneous, International Extemporaneous, Impromptu)
     4. Debate (Policy/team, Lincoln-Douglas, Public Forum, Parliamentary, Congress) 
         i. Congress Presiding Officers must have competed as a Presiding Officer in the current year at a league tournament.
@@ -140,7 +141,7 @@ A. A coach may appeal these requirements, in writing to the Executive Committee.
 
 ### Section 3: Novice-Varsity Designation
 
-A.  Individual events
+A.  Speech events
     1. Novice competitors include any students who have not competed in finals
         i.  All competitors who have competed in finals in a field of seven or fewer retain novice eligibility in the event.
         ii.  The exception will be when an event is “collapsed” and the novice & varsity compete in an open division.
@@ -156,11 +157,11 @@ A.  All non-qualifying tournaments shall offer both Varsity and Novice divisions
 A.  Said designation to be in writing and approved by the school administration. The coach may be an administration-appointed parent rather than a district employee.
 A.  A coach from a school within the same district may supervise another school’s team, provided that both schools agree in writing prior to the beginning of the tournament and the CVFL President is notified of such arrangements
 
-### Section 5: Individual Event rules shall follow the guidelines provided in the CHSSA By-Laws, Article IX except in circumstances listed below:
+### Section 5: Speech Event rules shall follow the guidelines provided in the CHSSA By-Laws, Article IX except in circumstances listed below:
 
 A.  Impromptu final round topics shall be allowed to include items not defined in the CHSSA By-Laws including but not limited to: images, comics, acronyms, or others approved by the executive council.
 
-### Section 6: Individual Event Tabulation shall follow the CHSSA By-Laws as closely as is practicable for CVFL
+### Section 6: Speech Event Tabulation shall follow the CHSSA By-Laws as closely as is practicable for CVFL
 A.  Non-qualifying tournaments shall only have 3 total rounds with the preliminary rounds randomly paneled.
 A.  A student who does not show up for a round shall be considered a No Show for that round. A No Show may continue competition for practice with the approval of the President but shall not be ranked with other active contestants as is practical for CVFL.
 
@@ -193,7 +194,7 @@ A.  The Judicial Committee shall hear all protests and grievances at a tournamen
         ii.  The decision of the Judicial Committee is final
 
 ### Section 2: Judges
-A.  In all individual events one judge shall be used in each panel of preliminary rounds. Three judges shall be used in the final rounds. No judge shall judge the same contestant twice in the same event. Inadvertent errors shall not negate a round.
+A.  In all speech events one judge shall be used in each panel of preliminary rounds. Three judges shall be used in the final rounds. No judge shall judge the same contestant twice in the same event. Inadvertent errors shall not negate a round.
 A.  In Debate one judge shall be used in all rounds with the exception of qualifying tournaments. 
 A.  Congress shall have 2 judges in preliminary rounds and 3 judges in the final round.
 A.  Each member school is allowed one judging strike per tournament submitted confidentially to the league president.
@@ -202,25 +203,25 @@ A.  All former competitors are required to be at least 1 full year out of high s
 
 ### Section 3: Awards
 A.  The Vice President of CVFL shall be responsible for ordering the awards.
-A.  Awards of descending size shall be awarded to the top three finalists in each Individual event.
-    1. Pins will be awarded to the 4th through 7th place in each Individual event. Further place medals may be given (up to one-third of the field) at the discretion of the President.
-    2. Awards will be given to the undefeated Debate teams.
+A.  Trophies of descending size shall be awarded to the top three finalists in each speech event.
+    1. Pins, or other small awards, will be awarded to the 4th through 7th place in each speech event. Further place awards may be given (up to one-third of the field) at the discretion of the President.
+    2. Trophies will be given to the undefeated Debate teams.
     3. Award recipients shall appear in tournament dress.  Student not dressed appropriately will be asked to sit down; their coach may pick up their awards after the ceremony concludes.
 A.  The President’s Award shall be given to all 4 year competitors who have qualified for at least one CHSSA or NSDA tournament.
-A.  CVFL All-League Award
+A.  CVFL All-League Award (Orator's Cup)
     1. Awarded to the top 7 competitors in the league as nominated and voted upon by the CVFL coaches
     2. Nominations will be sent via email to the league secretary along with a 100 word or less reason for the nomination. Coaches may nominate no more than 3 competitors.
-    3. Voting shall commence online via www.surveymonkey.com with only one coach representing each school casting a total of 5 votes.
-    4. Winners shall be announced at the Individual Events State Qualifier.
+    3. Voting shall commence online via a digital platform selected and controlled by the league Secretary, with only one coach representing each school casting a total of 5 votes.
+    4. Winners shall be announced at the Speech Events State Qualifier.
     5. CVFL Secretary will compile nominations and votes for delivery to the President as soon as voting closes.
     6. Award given shall be named “Orator’s Cup” 
 
 ### Section 4: Registration
-A.  Coaches will send their registration to the Joy of Tournaments website thirty-six hours prior to the tournament.
+A.  Coaches will send their registration via the Tabroom.com website thirty-six hours prior to the tournament.
 A.  All coaches will be responsible for taking care of their drops immediately upon arrival to the tournament.  A drop less than 36 hours before the start of a tournament will still result in an entry fee for that contestant plus a $25 penalty.
 A.  Failure to register within 30 minutes prior to the beginning of a tournament may result in the drop of those students not registered.
 A.  No competitors will be added on the day of the tournament.
-A.  A novice student may enter only one IE event per panel.  A varsity student may enter two IE events in any panel at the discretion of their coach.
+A.  Novice and varsity students may enter two speech events in any panel at the discretion of their coach.
 A.  In any team entry, if one of the partners is varsity, then the team is varsity.
 A.  When a participant reaches the varsity level in one event of a kind, they are to be considered varsity for all events of that type.
 
@@ -246,8 +247,8 @@ A.  The term reasonable accommodation means:
 A.  Any competitor may request a reasonable accommodation if such an accommodation is necessary for the competitor to enjoy an equal opportunity to compete.
 A.  Each request for an accommodation shall be reviewed on a case-by-case basis. The competitor, competitor’s coach and/or competitor’s parent will be involved in the process of determining potential reasonable accommodations. 
 A.  Requests for reasonable accommodation shall specify the nature of the disability, the accommodation requested and the relationship between the disability and the requested accommodation.  The competitor shall not be required to disclose a medical diagnosis.  The CVFL has a Reasonable Accommodation Request Form which is recommended, but not required.
-A.  Requests for reasonable accommodation shall be made to the Capitol Valley Forensics League President.  Requests made more than 10 days prior to a tournament will be decided prior to the beginning of that tournament.
-A.  The Capitol Valley Forensics League President, or his or her designee, may grant the accommodation, request verification or discuss alternatives to the requested accommodation with the competitor, competitor’s coach and/or competitor’s parent.
+A.  Requests for reasonable accommodation shall be made to the Capitol Valley Forensic League President.  Requests made more than 10 days prior to a tournament will be decided prior to the beginning of that tournament.
+A.  The Capitol Valley Forensic League President, or his or her designee, may grant the accommodation, request verification or discuss alternatives to the requested accommodation with the competitor, competitor’s coach and/or competitor’s parent.
 A.  The league president may request verification of the nature of the disability and/or the relationship between the disability and requested accommodation.  Factors to be considered before requesting verification include: 
     1. Is the competitors known to have a disability? 
     2. Does the competitor have an observable disability?
@@ -256,9 +257,9 @@ A.  The league president may deny a reasonable accommodation request only if dis
     1. The competitor’s condition does not meet the definition of disability.
     2. The competitor’s disability is not related to the requested accommodation.
     3. The requested accommodation is a fundamental alteration of the activity. 
-    4. The requested accommodation is an undue burden on the Capitol Valley Forensics League. 
+    4. The requested accommodation is an undue burden on the Capitol Valley Forensic League. 
     5. Any other reason allowed by the Americans with Disabilities Act or the California Unruh Civil Rights Act.
-A.  If a request for reasonable accommodation is denied, the competitor may appeal to the three person Capitol Valley Forensics League reasonable accommodation committee.
+A.  If a request for reasonable accommodation is denied, the competitor may appeal to the three person Capitol Valley Forensic League reasonable accommodation committee.
 
 
 ### Section 3. Effect of granting reasonable accommodation
@@ -267,7 +268,7 @@ A.  If an accommodation that changes the conduct of competition rounds is grante
 
 ### Section 4. Confidentiality
 
-A.  No Capitol  Valley Forensics League coach or official shall disclose that a competitor has requested a reasonable accommodation beyond what is necessary for the operation of Capitol Valley Forensics League tournaments.  Judges who are informed of a reasonable accommodation shall be instructed not to disclose the fact of or the nature of any disability or accommodation.
+A.  No Capitol Valley Forensic League coach or official shall disclose that a competitor has requested a reasonable accommodation beyond what is necessary for the operation of Capitol Valley Forensic League tournaments.  Judges who are informed of a reasonable accommodation shall be instructed not to disclose the fact of or the nature of any disability or accommodation.
 
 ## Article VII: Initiative and Referendum Process
 
