@@ -1,8 +1,13 @@
-# By-Laws of the Capitol Valley Forensic League
+---
+title: "By-Laws of the Capitol Valley Forensic League"
+author: Capitol Valley Forensic League
+date: September 23, 2024
+geometry: margin=2cm
+output: pdf_document
+---
+# Article I: Finance
 
-## Article I: Finance
-
-### Section 1: Assessments and Fees
+## Section 1: Assessments and Fees
 
 A.  School assessments: All schools shall pay $150 per year for CVFL membership.
     1. Invoices shall be sent by CVFL in September.
@@ -39,7 +44,7 @@ A.  Financial Assistance
      3. Funds shall be applied to entry fees, travel, and lodging only.
      1. The Scholarship Committee shall be responsible for application review and distribution of funds.
 
-### Section 2: Financial Management
+## Section 2: Financial Management
 
 A.  All checks shall be received by the CVFL treasurer.
 A.  All funds shall be disbursed and accounted for by the treasurer.
@@ -56,15 +61,15 @@ A.  Authorized travel on CVFL business at the direction of the Council which sha
     3.  Other necessary expenditures such as hotel and meal cost shall be compensated.
 A.  The expenses of the office incurred by the President, Vice-President, Secretary, and Treasurer shall be reimbursed by the Treasurer from the general funds. These expenses include travel, lodging, meals, postage, telephone calls, printing and other incidental costs resulting from the conduct of official CVFL business. Receipts for all expenses must be submitted to the Treasurer prior to reimbursement.
 
-## Article II: Elections
+# Article II: Elections
 
-### Section 1
+## Section 1
 
 The President, Vice-President, Secretary, and Treasurer shall be elected from among the members of the CVFL Council at a meeting held during the summer meeting before the first tournament of the league season.  They may be elected for more than one term.
 
-## Article III: Duties
+# Article III: Duties
          
-### Section 1: President
+## Section 1: President
 A.  Shall preside at all meetings of the CVFL and the Council.
 A.  Shall be responsible for the general supervision of the TAB Room during all tournaments.
 A.  Shall be responsible for the presenting of awards at the end of each tournament.
@@ -75,7 +80,7 @@ A.  Shall notify coaches of all member schools in writing of By-law changes whic
 A.  Shall be responsible for the review of all scripts submitted for the CHSSA Qualification Tournament.
 A.  Shall complete any other tasks or duties of a special nature as directed by the Council.
 
-### Section 2: Vice-President
+## Section 2: Vice-President
 A.  Shall serve as co-coordinator of forensic activities. The primary responsibility shall be to conduct league tournaments through the following:
     1. Acting as the official host in co-ordination with the coach of the host school
     2. Managing online invitation, registration, and results of all tournaments
@@ -86,7 +91,7 @@ A.  Shall assume the tasks of the President when so directed either by the Presi
 A.  Shall attend all meetings of the Council.
 A.  Shall complete other duties and tasks of a special nature as directed by either the President or by the CVFL Council.
 
-### Section 3: Treasurer
+## Section 3: Treasurer
 A.  Shall be the administrator of the CVFL funds according to the Constitution and By-
       laws or by the direction of the Council, including the following:
     1. Collection of assessments from member schools, maintaining accurate records of payments of assessments by member schools
@@ -102,7 +107,7 @@ A.  Shall be the administrator of the CVFL funds according to the Constitution a
 B.  Shall attend all of the meetings of the Council.
 C.  Shall complete other tasks or duties of a special nature as directed either by the President or the Council
 
-### Section 4: Secretary
+## Section 4: Secretary
 A.  The primary duty of the secretary shall be to record and distribute the minutes of the meetings of the Council including the following:
     1. Distributing minutes to coaches within two weeks following the meeting
     2. Maintaining a file of the minutes of all past CVFL meetings, which shall be submitted to the President at the conclusion of the Secretary’s term of service
@@ -112,9 +117,9 @@ A.  The primary duty of the secretary shall be to record and distribute the minu
 A.  Shall attend all meetings of the Council
 A.  Shall complete other tasks or duties of a special nature as directed either by the President or by the Council
 
-## Article IV: Tournament Guidelines 
+# Article IV: Tournament Guidelines 
 
-### Section 1: During the preliminary season the league will alternate between debate tournaments and A/B speech tournaments, offering three of each.
+## Section 1: During the preliminary season the league will alternate between debate tournaments and A/B speech tournaments, offering three of each.
 A.  A panel events include:
     1. Original Oratory, Informative, Humorous Interpretation, Program Oral Interpretation, Duo Interpretation, and Impromptu
 A.  B panel events include:
@@ -127,7 +132,7 @@ A.  Debate Topics
     3. Parliamentary will change at each tournament and shall include topics of policy, value, and fact.
     4. Congress topics will be released two weeks before the tournament date.
 
-### Section 2: Student participation
+## Section 2: Student participation
 
 A.  All students who are ninth through twelfth grade must be enrolled in and attending a member school and be in compliance with CHSSA eligibility requirements to attend league tournaments.
 A.  Students must participate in one “like” event in a league tournament in the 
@@ -139,7 +144,7 @@ current school year in order to participate in the State Qualifier. Like events 
         i. Congress Presiding Officers must have competed as a Presiding Officer in the current year at a league tournament.
 A. A coach may appeal these requirements, in writing to the Executive Committee.
 
-### Section 3: Novice-Varsity Designation
+## Section 3: Novice-Varsity Designation
 
 A.  Speech events
     1. Novice competitors include any students who have not competed in finals
@@ -153,21 +158,21 @@ A.  Congress shall have no novice divisions.
 A.  Participation in a qualifying tournament will make the student varsity if they dvance to the final round.
 A.  All non-qualifying tournaments shall offer both Varsity and Novice divisions.
 
-### Section 4:  The officially designated coach of a team must be present for the team to compete in any league tournament.
+## Section 4:  The officially designated coach of a team must be present for the team to compete in any league tournament.
 A.  Said designation to be in writing and approved by the school administration. The coach may be an administration-appointed parent rather than a district employee.
 A.  A coach from a school within the same district may supervise another school’s team, provided that both schools agree in writing prior to the beginning of the tournament and the CVFL President is notified of such arrangements
 
-### Section 5: Speech Event rules shall follow the guidelines provided in the CHSSA By-Laws, Article IX except in circumstances listed below:
+## Section 5: Speech Event rules shall follow the guidelines provided in the CHSSA By-Laws, Article IX except in circumstances listed below:
 
 A.  Impromptu final round topics shall be allowed to include items not defined in the CHSSA By-Laws including but not limited to: images, comics, acronyms, or others approved by the executive council.
 
-### Section 6: Speech Event Tabulation shall follow the CHSSA By-Laws as closely as is practicable for CVFL
+## Section 6: Speech Event Tabulation shall follow the CHSSA By-Laws as closely as is practicable for CVFL
 A.  Non-qualifying tournaments shall only have 3 total rounds with the preliminary rounds randomly paneled.
 A.  A student who does not show up for a round shall be considered a No Show for that round. A No Show may continue competition for practice with the approval of the President but shall not be ranked with other active contestants as is practical for CVFL.
 
-### Section 7: Debate Rules shall follow the guidelines established by the CHSSA Constitution By-Laws, Article XI.
+## Section 7: Debate Rules shall follow the guidelines established by the CHSSA Constitution By-Laws, Article XI.
 
-### Section 8: Debate Tabulation.
+## Section 8: Debate Tabulation.
 A.  Non-qualifying tournaments
     1. The first two rounds should be randomly paired avoiding school-school conflict
     2. Round three pairing shall be power matched based on the results from round 1
@@ -178,14 +183,14 @@ A.  Qualifying Tournaments shall follow the guidelines as established in the CHS
     2. Auto qualification shall occur when a varsity debate competitor or team goes undefeated in the same debate event at all preliminary league tournaments.
         i.  An auto qualifier shall not participate in the State debate qualifying tournament.
 
-### Section 9: Congress Rules shall follow the guidelines as established in the CHSSA By-Laws, Article XIII.
+## Section 9: Congress Rules shall follow the guidelines as established in the CHSSA By-Laws, Article XIII.
 
-### Section 10: NSDA Qualifiers shall follow NSDA Tournament Guidelines, rather than CHSSA rules.
+## Section 10: NSDA Qualifiers shall follow NSDA Tournament Guidelines, rather than CHSSA rules.
 
 
-## Article V: Tournament Administration
+# Article V: Tournament Administration
 
-### Section 1:  General Administration
+## Section 1:  General Administration
 A.  The Vice-President of CVFL and the host school coach shall act as tournament host
 A.  The Judicial Committee shall hear all protests and grievances at a tournament
     1.  Any grievance shall be presented to the committee in writing by the individual filing the protest
@@ -193,7 +198,7 @@ A.  The Judicial Committee shall hear all protests and grievances at a tournamen
         i.  In the event that the grievance shall be upheld, the committee has the power of disqualification at any point in the tournament
         ii.  The decision of the Judicial Committee is final
 
-### Section 2: Judges
+## Section 2: Judges
 A.  In all speech events one judge shall be used in each panel of preliminary rounds. Three judges shall be used in the final rounds. No judge shall judge the same contestant twice in the same event. Inadvertent errors shall not negate a round.
 A.  In Debate one judge shall be used in all rounds with the exception of qualifying tournaments. 
 A.  Congress shall have 2 judges in preliminary rounds and 3 judges in the final round.
@@ -201,7 +206,7 @@ A.  Each member school is allowed one judging strike per tournament submitted co
 A.  Schools are required to provide judges one round past where their competitors drop.
 A.  All former competitors are required to be at least 1 full year out of high school before judging non-novice events at league tournaments.
 
-### Section 3: Awards
+## Section 3: Awards
 A.  The Vice President of CVFL shall be responsible for ordering the awards.
 A.  Trophies of descending size shall be awarded to the top three finalists in each speech event.
     1. Pins, or other small awards, will be awarded to the 4th through 7th place in each speech event. Further place awards may be given (up to one-third of the field) at the discretion of the President.
@@ -216,7 +221,7 @@ A.  CVFL All-League Award (Orator's Cup)
     5. CVFL Secretary will compile nominations and votes for delivery to the President as soon as voting closes.
     6. Award given shall be named “Orator’s Cup” 
 
-### Section 4: Registration
+## Section 4: Registration
 A.  Coaches will send their registration via the Tabroom.com website thirty-six hours prior to the tournament.
 A.  All coaches will be responsible for taking care of their drops immediately upon arrival to the tournament.  A drop less than 36 hours before the start of a tournament will still result in an entry fee for that contestant plus a $25 penalty.
 A.  Failure to register within 30 minutes prior to the beginning of a tournament may result in the drop of those students not registered.
@@ -225,16 +230,16 @@ A.  Novice and varsity students may enter two speech events in any panel at the 
 A.  In any team entry, if one of the partners is varsity, then the team is varsity.
 A.  When a participant reaches the varsity level in one event of a kind, they are to be considered varsity for all events of that type.
 
-### Section 5: Tabulation Rooms
+## Section 5: Tabulation Rooms
 The Tab Room is closed to all people not assigned to the operation of the tournament. Violation of this rule shall result in immediate disqualification of the student entering the Tab Room.
 
-### Section 6: Unauthorized video and/or audio-taping of any panel of events or debate is prohibited.
+## Section 6: Unauthorized video and/or audio-taping of any panel of events or debate is prohibited.
 
 Note taking or “flowing of the case” during a debate round is prohibited by anyone    other than a competitor in that round or a judge.
 
-## Article VI: Reasonable Accommodation Policy
+# Article VI: Reasonable Accommodation Policy
 
-### Section 1: Definitions
+## Section 1: Definitions
 
 A.  The term disability means, with respect to an individual:
     1. A mental or physical impairment which substantially limits1 one or more of the major life activities of such individual;
@@ -262,17 +267,17 @@ A.  The league president may deny a reasonable accommodation request only if dis
 A.  If a request for reasonable accommodation is denied, the competitor may appeal to the three person Capitol Valley Forensic League reasonable accommodation committee.
 
 
-### Section 3. Effect of granting reasonable accommodation
+## Section 3. Effect of granting reasonable accommodation
 
 A.  If an accommodation that changes the conduct of competition rounds is granted, notice of the accommodation shall be attached to each ballot for rounds affected by the accommodation.  The notice shall state the accommodation and that the judge shall not consider the accommodation in deciding the round.  CVFL has a reasonable accommodation notification form which can be attached to ballots. 
 
-### Section 4. Confidentiality
+## Section 4. Confidentiality
 
 A.  No Capitol Valley Forensic League coach or official shall disclose that a competitor has requested a reasonable accommodation beyond what is necessary for the operation of Capitol Valley Forensic League tournaments.  Judges who are informed of a reasonable accommodation shall be instructed not to disclose the fact of or the nature of any disability or accommodation.
 
-## Article VII: Initiative and Referendum Process
+# Article VII: Initiative and Referendum Process
 
-### Section 1: By-Law and Constitution Changes
+## Section 1: By-Law and Constitution Changes
 
 A.  Any coach of a member school of the CVFL may request a change in the CVFL Constitution or By-laws through petition and referendum process.
 
