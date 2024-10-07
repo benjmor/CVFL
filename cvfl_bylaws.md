@@ -226,7 +226,7 @@ A.  Sweepstakes Awards
         i.  Speech: 7 points minus rank in the round (eg. 1st = 6 points), minimum 2 points
     1. School Sweepstakes awards are calculated based on the sum of the school’s top 6 entries for debate, and top 10 entries for speech.
         i.  Note: this structure ensures that bringing more students helps a team’s sweepstakes performance, but that large schools do not automatically win by virtue of having the most entries.
-    1. Novice and Varsity entries both count toward sweepstakes points; there are not separate categories for Novice and Varsity sweepstakes.
+    1. There are separate categories for Novice and Varsity sweepstakes. However, the sweepstakes broom and league championship are only awarded based on Varsity results.
     1. If a student is double-entered in speech, only their top performing individual entry will be counted.
     1. In the event of a tie for first place, the number of counted entries will expand to 10 in debate and 15 in speech.
     1. Additional sweepstakes awards for small schools (with lower numbers of entries) can be recognized, at the discretion of the league President.
