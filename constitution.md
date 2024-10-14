@@ -18,10 +18,10 @@ output: pdf_document
 ## Section 4: No substantial part of the activities of the League shall consist of the propaganda, or  otherwise attempting to influence legislation, and the League shall not participate or intervene in any political campaign, including the publishing or distribution of statements on behalf of any candidate for public office. 
 ## Section 5: The property of this League is irrevocably dedicated to Scientific and Education purposes meeting the requirements for exemption provided by section 214 of the Revenue and Taxation Code, and no part of the net income or assets of this organization shall ever inure to the benefit of any director, officer or member thereof. Any assets remaining after payment or provision for payment of all debts and liabilities of this League shall be distributed to a non-profit fund, foundation, or association which is organized to and operated exclusively for scientific and educational purposes and which has established a tax status under section 501 (c)(3) of the internal code. 
 
-# ARTICLE III: Membership 
+# Article III: Membership 
 ## Section 1: Membership shall be open to all high schools, and to junior high schools that include the ninth grade, located in the CVFL as per the CHSSA constitution, upon payment of any dues established and the filing of required membership application. 
 
-# ARTICLE IV: Legislative powers 
+# Article IV: Legislative powers 
 ## Section 1: The legislative power of the League shall be vested in CVFL Council. 
 
 ## Section 2: Membership of the CVFL Council shall be composed of: 
@@ -40,7 +40,7 @@ A.  Establish yearly dues for the league memberships
 A.  Copies of proxy power must be delivered to the president before the meeting. If no such proxy is sent, the member is presumed to vote with the majority present at the meeting. 
 A.  Emergency situations can be entertained at the discretion of the League President. 
 
-# ARTICLE V: Executive Powers 
+# Article V: Executive Powers 
 ## Section 1: The executive powers of the organization shall be vested in the Executive Committee, comprised of a President and Vice-President, a Secretary, a Treasurer, a Member-at-Large. 
 ## Section 2: The President, Vice-President, Secretary, Treasurer shall be elected from and by the membership of the CVFL Council. The Member-at Large shall be appointed by the President. 
 ## Section 3: In the event the elected President cannot serve the balance of their term, the President shall be succeeded by the Vice-President for the remainder of the term. 
@@ -92,7 +92,7 @@ disqualifying that person from the current tournament, from future tournament(s)
 E.  The decision of the Judicial Committee is final. 
 F.  A member school which has been censured may be suspended from the CVFL by a two-thirds vote of the CVFL Council for a period of time not to exceed 2 years. 
 
-# ARTICLE VII: Meetings 
+# Article VII: Meetings 
 ## Section 1: The CVFL shall hold a general coaches' meeting during each Tournament. 
 A.  Notification of the agenda shall be sent at least seven days prior to the meeting. 
 
@@ -100,13 +100,13 @@ A.  Notification of the agenda shall be sent at least seven days prior to the me
 ## Section 3: Each school shall be responsible for the attendance of their representative at CVFL Council meetings. 
 ## Section 4: The President or a quorum of the CVFL Council shall be empowered to call special meetings as necessary. 
 
-# ARTICLE VIII: Amendments 
+# Article VIII: Amendments 
 ## Section 1: Proposed amendments to the constitution shall be submitted to the President of CVFL at least 15 days prior to the first consideration by the Council. 
 ## Section 2: Proposed amendments to the constitution shall be submitted to all member schools at least 7 days prior to first consideration by the CVFL Council. 
 ## Section 3: Proposed amendments to the constitution may be ratified by a simple majority affirmative vote of the CVFL Council at a scheduled League meeting. 
 ## Section 4: All amendments shall take effect immediately upon ratification. 
 
-# ARTICLE IX: Ratification 
+# Article IX: Ratification 
 ## Section 1: This constitution and By-laws shall be in effect beginning in the Fall of 2012 if ratified by a simple majority of the CVFL Council at a meeting prior to that time. 
 
 Note: The offices and names below are provided for historical context only. They are not updated based on changes to officers or coaches.
