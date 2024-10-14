@@ -23,17 +23,21 @@ output: pdf_document
 
 # ARTICLE IV: Legislative powers 
 ## Section 1: The legislative power of the League shall be vested in CVFL Council. 
+
 ## Section 2: Membership of the CVFL Council shall be composed of: 
 A.  All duly elected officers 
 A.  The official coach of each high school that is a member of the League 
+
 ## Section 3: The CVFL Council shall have the power to: 
 A.  Establish an annual schedule for league tournaments 
-A.  Establish procedures for qualifying to the State Speech Tournament; 
+A.  Establish procedures for qualifying to the State Speech Tournament
 A.  Establish yearly dues for all schools and entry fees for all tournaments. 
 A.  Establish such policies and procedures as shall be necessary to carry out the purpose of CVFL. 
 A.  Admit new schools 
 A.  Establish yearly dues for the league memberships 
-## Section 4: A quorum of the Council shall consist of a simple majority of the members. The members will be informed of all meetings and each member may send a power of proxy. A. Copies of proxy power must be delivered to the president before the meeting. If no such proxy is sent, the member is presumed to vote with the majority present at the meeting. 
+
+## Section 4: A quorum of the Council shall consist of a simple majority of the members. The members will be informed of all meetings and each member may send a power of proxy.
+A.  Copies of proxy power must be delivered to the president before the meeting. If no such proxy is sent, the member is presumed to vote with the majority present at the meeting. 
 A.  Emergency situations can be entertained at the discretion of the League President. 
 
 # ARTICLE V: Executive Powers 
@@ -46,16 +50,20 @@ A.  Represent CVFL in all professional relationships
 A.  Preside at all meetings of the CVFL Council, Executive Committee, and Judicial Committee 
 A. Facilitate the Judicial Committee 
 A. Review all scripts for the State Qualifying Tournament 
+
 ## Section 6: The Vice-President shall have the power to: 
 A.  Administer the operations of all League tournaments 
 A.  Fill the office of President if the President cannot serve the remainder of his/her term 
+
 ## Section 7: The Treasurer shall: 
 A.  Receive and disburse CVFL funds as directed by the CVFL Council. 
 A.  Maintain accurate record of all income, disbursements, and tax information. 
+
 ## Section 8: The Secretary shall: 
 A.  Maintain such records as are deemed necessary as well as conduct correspondence as 
 directed 
 A. Shall maintain a roster of member schools 
+
 ## Section 9: The Member-at Large shall: 
 A. Serve as the chairperson at Judicial Committee 
 A. Assist with duties as assigned by the League President 
@@ -76,7 +84,8 @@ A.  All investigations of the Judicial Committee shall follow a prescribed proce
     1. The committee shall deliberate in private after presentation of information by both sides. 
     1. A vote shall be taken, recorded, and the minutes retained by the President of CVFL for one year. 
     1. All concerned parties shall be informed of the decision immediately. 
-B.  By a majority vote, the Judicial Committee may send an official letter of the censure to the coach of a member school, informing him/her of the finding of the committee. C. By majority vote, the Judicial Committee may, in addition, inform in writing a 
+B.  By a majority vote, the Judicial Committee may send an official letter of the censure to the coach of a member school, informing him/her of the finding of the committee.
+C.  By majority vote, the Judicial Committee may, in addition, inform in writing a 
 member school's administration of any action against or censure of that school's coach. 
 D.  By majority vote, the Judicial Committee may discipline a competitor by 
 disqualifying that person from the current tournament, from future tournament(s) inclusive of the State Qualifying tournament, and he/she may be disqualified from representing the league in a state tournament. 
@@ -86,6 +95,7 @@ F.  A member school which has been censured may be suspended from the CVFL by a 
 # ARTICLE VII: Meetings 
 ## Section 1: The CVFL shall hold a general coaches' meeting during each Tournament. 
 A.  Notification of the agenda shall be sent at least seven days prior to the meeting. 
+
 ## Section 2: The CVFL Council shall meet at least once in the summer before every school year. 
 ## Section 3: Each school shall be responsible for the attendance of their representative at CVFL Council meetings. 
 ## Section 4: The President or a quorum of the CVFL Council shall be empowered to call special meetings as necessary. 
@@ -109,30 +119,30 @@ Note: The offices and names below are provided for historical context only. They
 - Member-at-Large - Melisa Elko 
 
 ## Membership (Coach), 20 July 2016 
-Antelope HS (Matt Parris)
-CK McClatchy HS (Stephen Goldberg)
-Colusa HS (Matthew Giffin)
-Cordova HS (Mark Hernandez)
-Davis HS (Janine Widman)
-El Dorado HS (Deb Nicholls)
-Granite Bay HS (Robert Prichard)
-Highlands HS (Linda Darling)
-Jesuit HS (Laura Harvey)
-JF Kennedy HS (Quest Sandel)
-Mira Loma HS (Josh Stinson)
-Monterey Trail HS (Mark Hernandez)
-Nevada Union HS (Stephen Goldberg)
-Oak Ridge HS (Eric Larsen)
-Ponderosa HS (Travis Summers)
-Rio Americano HS (Matt Enmark)
-River City HS (Jared Andrus)
-River Valley HS (Ashley Cervantes)
-Rocklin HS (James Grace)
-Rosemont HS (Mark Hernandez)
-Sac. Waldorf HS (Christine Gruhn)
-St. Francis HS (Eve Benson)
-Union Mine HS (Stephanie Munz)
-Vista del Lago HS (Amish Jain)
-West Campus HS (Mark Hernandez)
-Woodcreek HS (Melisa Elko)
-Yuba City HS (Ashley Cervantes)
+- Antelope HS (Matt Parris)
+- CK McClatchy HS (Stephen Goldberg)
+- Colusa HS (Matthew Giffin)
+- Cordova HS (Mark Hernandez)
+- Davis HS (Janine Widman)
+- El Dorado HS (Deb Nicholls)
+- Granite Bay HS (Robert Prichard)
+- Highlands HS (Linda Darling)
+- Jesuit HS (Laura Harvey)
+- JF Kennedy HS (Quest Sandel)
+- Mira Loma HS (Josh Stinson)
+- Monterey Trail HS (Mark Hernandez)
+- Nevada Union HS (Stephen Goldberg)
+- Oak Ridge HS (Eric Larsen)
+- Ponderosa HS (Travis Summers)
+- Rio Americano HS (Matt Enmark)
+- River City HS (Jared Andrus)
+- River Valley HS (Ashley Cervantes)
+- Rocklin HS (James Grace)
+- Rosemont HS (Mark Hernandez)
+- Sac. Waldorf HS (Christine Gruhn)
+- St. Francis HS (Eve Benson)
+- Union Mine HS (Stephanie Munz)
+- Vista del Lago HS (Amish Jain)
+- West Campus HS (Mark Hernandez)
+- Woodcreek HS (Melisa Elko)
+- Yuba City HS (Ashley Cervantes)
