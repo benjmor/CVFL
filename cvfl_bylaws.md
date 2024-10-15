@@ -147,15 +147,12 @@ A. A coach may appeal these requirements, in writing to the Executive Committee.
 ## Section 3: Novice-Varsity Designation
 
 A.  Speech events
-    1. Novice competitors include any students who have not competed in finals
-        i.  All competitors who have competed in finals in a field of seven or fewer retain novice eligibility in the event.
-        ii.  The exception will be when an event is “collapsed” and the novice & varsity compete in an open division.
-    2. Varsity competitors include all students who have previously competed in finals in a like event with more than 7 competitors.
+    1. Students shall be eligible for the novice division if they have not competed in finals of a speech event with more than 7 entries.
 A.  Debate
-    1. Students shall be eligible to compete in Novice division in any debate event until they have been undefeated in any two debate events.
-    2. Students must compete in Varsity division after they have been undefeated at two tournaments in any debate event.
+    1. Students shall be eligible to compete in Novice division in any debate event until they have been undefeated in a debate tournament, or reach the final round of a qualification tournament.
 A.  Congress shall have no novice divisions.
-A.  Participation in a qualifying tournament will make the student varsity if they dvance to the final round.
+A.  Both partners must be novice-eligible for a team to enter the novice division.
+A. Students in 8th grade or below shall always be eligible for the novice division.
 A.  All non-qualifying tournaments shall offer both Varsity and Novice divisions.
 
 ## Section 4:  The officially designated coach of a team must be present for the team to compete in any league tournament.
