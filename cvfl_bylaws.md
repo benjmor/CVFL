@@ -221,7 +221,7 @@ A.  Sweepstakes Awards
     1. Sweepstakes awards are based solely on a school’s performance in the guaranteed ("prelim") rounds of a tournament.
     1. Each entry earns points per round of competition:
         i.  Debate: Win = 6 points, Bye = 4 points, Loss = 3 points
-        i.  Congress: 9 points minus rank in the round (eg. 1st = 8 points), minimum 2 points
+        i.  Congress: for each prelim round, 4 points for participating, 1 additional point for placing in the top 8, 1 additional point for top 6, 1 additional point for top 4, and 1 additional point for top 2 (max 8 points per round).
         i.  Presiding Officer: 4 points per round presided
         i.  Speech: 7 points minus rank in the round (eg. 1st = 6 points), minimum 2 points
     1. School Sweepstakes awards are calculated based on the sum of the school’s top 6 entries for debate, and top 10 entries for speech.
