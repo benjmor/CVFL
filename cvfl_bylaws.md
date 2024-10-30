@@ -267,7 +267,8 @@ A.  Coaches will send their registration via the Tabroom.com website thirty-six 
 A.  All coaches will be responsible for taking care of their drops immediately upon arrival to the tournament.  A drop less than 36 hours before the start of a tournament will still result in an entry fee for that contestant plus a $25 penalty.
 A.  Failure to register within 30 minutes prior to the beginning of a tournament may result in the drop of those students not registered.
 A.  No competitors will be added on the day of the tournament.
-A.  Novice and varsity students may enter two speech events in any panel at the discretion of their coach.
+A.  Novice and varsity students may enter two speech events in any panel at the discretion of their coach. At single-paneled tournaments, each school may designate up to two "triathletes" that may enter 3 speech events.
+    1. Students may not enter both extemporaneous speaking events, except at state qualifier tournaments.
 A.  In any team entry, if one of the partners is varsity, then the team is varsity.
 A.  When a participant reaches the varsity level in one event of a kind, they are to be considered varsity for all events of that type.
 
