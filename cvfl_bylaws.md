@@ -278,8 +278,6 @@ A.  All coaches will be responsible for taking care of their drops immediately u
 A.  Failure to register within 30 minutes prior to the beginning of a tournament may result in the drop of those students not registered.
 A.  No competitors will be added on the day of the tournament.
 A.  Novice and varsity students may enter two speech events in any panel at the discretion of their coach.
-A.  In any team entry, if one of the partners is varsity, then the team is varsity.
-A.  When a participant reaches the varsity level in one event of a kind, they are to be considered varsity for all events of that type.
 
 ## Section 5: Tabulation Rooms
 The Tab Room is closed to all people not assigned to the operation of the tournament. Violation of this rule shall result in immediate disqualification of the student entering the Tab Room.
