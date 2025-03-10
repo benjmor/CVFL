@@ -22,11 +22,11 @@ A.  Events with 14 or fewer entries:
 
 ## Tiebreaker Criteria
 
-A. Breaks to Semi-Finals
+A.  Breaks to Semi-Finals
     1. Determined by the lowest cumulative score (truncated to 5).
     1. Reciprocal ranks are used as a tie-breaker.
 
-A. Breaks to Finals
+A.  Breaks to Finals
     1. Determined by the total cumulative score from preliminary and semi-final rounds (truncated to 5).
     1. Tie-breakers applied in the following order:
         1. Ranks from elimination rounds.
@@ -34,7 +34,7 @@ A. Breaks to Finals
         1. Reciprocal ranks from semi-finals.
         1. Reciprocal ranks from all rounds.
         
-A. Final Placement
+A.  Final Placement
     1. Based on cumulative ranks from all rounds (semi-finals and finals ranks doubled).
     1. Tie-breakers applied in the following order:
         1. Ranks from the final round.
@@ -65,7 +65,7 @@ A.  Brackets are set as follows:
 
 ## Final Qualifiers
 A.  Winners of the final qualifying round automatically qualify.
-A. Additional qualifiers are determined from the best-performing final-round-losing entries based on:
+A.  Additional qualifiers are determined from the best-performing final-round-losing entries based on:
     1. Number of ballots won.
     1. Number of debates won.
     1. Opponents' cumulative ballots won.
