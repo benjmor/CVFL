@@ -48,6 +48,7 @@ A.  Final Placement
 A.  Three preliminary rounds.
 B.  Round 1 is randomly paired.
 C.  Rounds 2 and 3 are power-matched, avoiding school conflicts if possible (if unavoidable, the affected coach will be informed at the start of the tournament).
+      1. Pull-ups will be used to avoid school conflicts during prelims, if required.
 
 ## Bracket Creation
 A.  After Round 3, teams with one or fewer losses advance to elimination rounds.
@@ -62,6 +63,7 @@ A.  Brackets are set as follows:
     1. Pairings are set with 1st vs. 8th/16th, 2nd vs. 7th/15th, etc.
         1. Byes fill remaining slots if necessary (eg. if no 16th seed, 1st seed gets a bye).
     1. Single elimination until the final qualifying round.
+    1. Brackets are never "broken" -- that is, pairings are **not** modified to avoid matchups between the same school.
 
 ## Final Qualifiers
 A.  Winners of the final qualifying round automatically qualify.
