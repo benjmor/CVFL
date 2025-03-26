@@ -44,6 +44,12 @@ A.  Final Placement
 
 # Debate Events
 
+## Small Entry Contingency Rule
+A.  This section only applies if the number of entries is equal to or less than the number of qual spots.
+A.  All entries qualify automatically to state and do not need to conduct any debate rounds nor physically attend the qualifying yournament.
+      1. If CHSSA by-laws require qualification round debates to be held, CHSSA rules supersede CVFL rules, and the rounds must be held.
+A.  Coaches of teams in a small-entry event may request that their teams debate during some or all of the preliminary rounds. CVFL will accomodate these requests to the extent possible, considering opponent availability, judge availability, and room availability.
+
 ## Preliminary Rounds
 A.  Three preliminary rounds.
 B.  Round 1 is randomly paired.
