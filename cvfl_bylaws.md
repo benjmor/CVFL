@@ -165,12 +165,15 @@ A.  A coach from a school within the same district may supervise another schoolâ
 ## Section 5: Speech Event rules shall follow the guidelines provided in the CHSSA By-Laws, Article IX except in circumstances listed below:
 
 A.  Impromptu final round topics shall be allowed to include items not defined in the CHSSA By-Laws including but not limited to: images, comics, acronyms, or others approved by the executive council.
+A.  Generative AI use is prohibited per Section 11.
 
 ## Section 6: Speech Event Tabulation shall follow the CHSSA By-Laws as closely as is practicable for CVFL
 A.  Non-qualifying tournaments shall only have 3 total rounds with the preliminary rounds randomly paneled.
 A.  A student who does not show up for a round shall be considered a No Show for that round. A No Show may continue competition for practice with the approval of the President but shall not be ranked with other active contestants as is practical for CVFL.
 
-## Section 7: Debate Rules shall follow the guidelines established by the CHSSA Constitution By-Laws, Article XI.
+## Section 7: Debate Rules shall follow the guidelines established by the CHSSA Constitution By-Laws, Article XI, except the circumstances listed below.
+
+A.  Generative AI use is prohibited per Section 11.
 
 ## Section 8: Debate Tabulation.
 A.  Non-qualifying tournaments
@@ -187,6 +190,15 @@ A.  Qualifying Tournaments shall follow the guidelines as established in the CHS
 
 ## Section 10: NSDA Qualifiers shall follow NSDA Tournament Guidelines, rather than CHSSA rules.
 
+## Section 11: Prohibition of Generative AI Use in Spontaneous and Debate Events
+
+A.  In all events with limited preparation or in-round access to the internet, including Lincoln-Douglas Debate, Parliamentary Debate, Policy Debate, Public Forum Debate, Congressional Debate, International Extemporaneous Speaking, and National Extemporaneous Speaking, the use of generative artificial intelligence, including online resources/sites like ChatGPT or tools and/or plugins that work offline, shall be prohibited. This includes the use of AI for ideation as well as creation of material.
+
+A.  In limited preparation events, this prohibition shall be enforced through the use of the proctor(s) for these events, the individual(s) overseeing the preparation room(s) for limited preparation events. If the proctor becomes aware that a competitor or team is using generative AI, they shall verify the use has occurred, notify the individual(s) of the violation of this rule, and identify the individual(s) to the tab room, which will refer the matter to the judicial committee. The individual(s) shall proceed with their round and report to the tab room after the round with their coach of record to review the incident with the judicial committee.
+
+A.  In prepared events where competitors may access the internet in-round, this prohibition shall be enforced by competitors and/or judges in-round. If a competitor or team becomes aware that another competitor or team is using generative artificial intelligence during the round, they must immediately report the use to their judge. Upon such report, the judge shall verify whether the use has occurred, notify the individual(s) of the violation of this rule, and identify the individual(s) to the judicial committee. The individual(s) shall proceed with their round and report to the tab room after the round with their coach of record to review the incident with the judicial committee.
+
+A.  If a competitor or team is determined to have used generative artificial intelligence sites during their limited preparation time, or during the round for events where competitors may access the internet in-round, the judicial committee may exercise their discretion in terms of the appropriate punishment, ranging from warnings, to rank penalties, to disqualification, based on the severity, intentionality, and certainty of the infraction.
 
 # Article V: Tournament Administration
 
