@@ -277,7 +277,7 @@ The Tab Room is closed to all people not assigned to the operation of the tourna
 
 ## Section 6: Unauthorized video and/or audio-taping of any panel of events or debate is prohibited.
 
-Note taking or "flowing of the case" during a debate round is prohibited by anyone    other than a competitor in that round or a judge.
+Note taking or "flowing of the case" during a debate round is prohibited by anyone other than a competitor in that round or a judge.
 
 # Article VI: Reasonable Accommodation Policy
 
