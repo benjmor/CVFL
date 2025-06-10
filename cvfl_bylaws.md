@@ -135,28 +135,40 @@ A.  Debate Topics
 ## Section 2: Student participation
 
 A.  All students who are ninth through twelfth grade must be enrolled in and attending a member school and be in compliance with CHSSA eligibility requirements to attend league tournaments.
-A.  Students must participate in one “like” event in a league tournament in the 
-current school year in order to participate in the State Qualifier. Like events are defined as:
-    1. Interpretative events (humorous, program oral, dramatic, oratorical, duo)
+A.  Students must participate in one "like" event in a league tournament in the current school year in order to participate in the State Qualifier. For the purpose of state qualification, "like" events are defined as:
+    1. Interpretative events (humorous, program oral, dramatic, declamation, duo)
     2. Original events (original oratory, original advocacy, original prose/poetry, informative)
     3. Spontaneous events (National Extemporaneous, International Extemporaneous, Impromptu)
-    4. Debate (Policy/team, Lincoln-Douglas, Public Forum, Parliamentary, Congress) 
-        i. Congress Presiding Officers must have competed as a Presiding Officer in the current year at a league tournament.
+    4. Debate (Policy, Lincoln-Douglas, Public Forum, Parliamentary, Congress) 
+    5. Congress Presiding Officer
 A. A coach may appeal these requirements, in writing to the Executive Committee.
 
 ## Section 3: Novice-Varsity Designation
 
-A.  Speech events
-    1. Novice competitors include any students who have not competed in finals
-        i.  All competitors who have competed in finals in a field of seven or fewer retain novice eligibility in the event.
-        ii.  The exception will be when an event is “collapsed” and the novice & varsity compete in an open division.
-    2. Varsity competitors include all students who have previously competed in finals in a like event with more than 7 competitors.
-A.  Debate
-    1. Students shall be eligible to compete in Novice division in any debate event until they have been undefeated in any two debate events.
-    2. Students must compete in Varsity division after they have been undefeated at two tournaments in any debate event.
-A.  Congress shall have no novice divisions.
-A.  Participation in a qualifying tournament will make the student varsity if they dvance to the final round.
-A.  All non-qualifying tournaments shall offer both Varsity and Novice divisions.
+A.  "Like" events for the purposes of *novice eligibility* are defined as:
+    1. Policy debate
+    1. Non-policy, non-Congressional debate (LD, PF, Parli)
+    1. Congress
+    1. Interpretation speech events
+    1. Original speech events
+    1. Spontaneous speech events
+A.  Automatic Criteria for Varsity Promotion
+    1. Policy Debate
+        a.  Students that achieve a 4-0 record twice in novice are automatically promoted to Varsity and are no longer eligible for novice.
+    1.  Non-Policy Debate
+        a.  Teams that achieve a 4-0 record once are automatically promoted to Varsity and are no longer eligible for novice.
+        a.  Teams that achieve a 3-1 record twice are automatically promoted to Varsity and are no longer eligible for novice.
+    1.  Speech events
+        a.  Students shall be eligible for the novice division if they have not competed in finals of a speech event with more than 7 entries.
+        a.  Students' eligibility for novice in speech is based on the event type (eg. reaching finals in Impromptu makes a student ineligible for Novice Extemp, but does not make them ineligible for Novice Informative).
+    1.  Congress
+        a.  Congress shall have no novice divisions.
+    1.  Presiding Officer performance does not affect a student's eligibility for novice.
+A.  Prior Experience Criteria for Varsity Promotion
+    1. Students that competed in a previous year(s) of speech and/or debate competition while in high school are encouraged to enter in the Varsity division, but can be entered in the Novice division at their coach's discretion.
+A.  Additional Criteria for Novice Eligibility
+    1. Both partners must be novice-eligible for a team to enter the novice division.
+    1. Students in 8th grade or below shall always be eligible for the novice division.
 
 ## Section 4:  The officially designated coach of a team must be present for the team to compete in any league tournament.
 A.  Said designation to be in writing and approved by the school administration. The coach may be an administration-appointed parent rather than a district employee.
@@ -268,8 +280,6 @@ A.  All coaches will be responsible for taking care of their drops immediately u
 A.  Failure to register within 30 minutes prior to the beginning of a tournament may result in the drop of those students not registered.
 A.  No competitors will be added on the day of the tournament.
 A.  Novice and varsity students may enter two speech events in any panel at the discretion of their coach.
-A.  In any team entry, if one of the partners is varsity, then the team is varsity.
-A.  When a participant reaches the varsity level in one event of a kind, they are to be considered varsity for all events of that type.
 
 ## Section 5: Tabulation Rooms
 The Tab Room is closed to all people not assigned to the operation of the tournament. Violation of this rule shall result in immediate disqualification of the student entering the Tab Room.
