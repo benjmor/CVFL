@@ -103,14 +103,14 @@ A.  Shall be the administrator of the CVFL funds according to the Constitution a
     7. Maintaining and filing all tax returns, forms, account records as may be required by state and federal governments
     8. Presenting CVFL with financial statements and a budget reports as required
     9. Providing for official assessment accounting in the December meeting of the Council for use in the allocation of qualifiers
-    10. Submitting all records and accounts to the President at the conclusion of the Treasurer’s term of office
+    10. Submitting all records and accounts to the President at the conclusion of the Treasurer's term of office
 A.  Shall attend all of the meetings of the Council.
 A.  Shall complete other tasks or duties of a special nature as directed either by the President or the Council
 
 ## Section 4: Secretary
 A.  The primary duty of the secretary shall be to record and distribute the minutes of the meetings of the Council including the following:
     1. Distributing minutes to coaches within two weeks following the meeting
-    2. Maintaining a file of the minutes of all past CVFL meetings, which shall be submitted to the President at the conclusion of the Secretary’s term of service
+    2. Maintaining a file of the minutes of all past CVFL meetings, which shall be submitted to the President at the conclusion of the Secretary's term of service
     3. Calling roll at the Council meetings and recording the official proxy of members not in attendance
     4. Providing a roster of members which should include both home and school mailing address and telephone numbers
     5. Providing extra copies of the minutes of the preceding meeting for Council members
@@ -119,18 +119,19 @@ A.  Shall complete other tasks or duties of a special nature as directed either 
 
 # Article IV: Tournament Guidelines 
 
-## Section 1: During the preliminary season the league will alternate between debate tournaments and A/B speech tournaments, offering three of each.
-A.  A panel events include:
-    1. Original Oratory, Informative, Humorous Interpretation, Program Oral Interpretation, Duo Interpretation, and Impromptu
-A.  B panel events include:
-    1. Original Advocacy, Original Prose & Poetry, Oratorical Interpretation, Dramatic Interpretation, National Extemporaneous, and International Extemporaneous
+## Section 1: During the preliminary season the league will alternate between debate tournaments and speech tournaments, offering three of each.
+A.  Speech events may be split into alternating panels of events for logistical reasons:
+    1. A panel events include:
+        1. Original Oratory, Informative, Humorous Interpretation, Program Oral Interpretation, Duo Interpretation, and Impromptu
+    1. B panel events include:
+        1. Original Advocacy, Original Prose & Poetry, Oratorical Interpretation, Dramatic Interpretation, National Extemporaneous, and International Extemporaneous
 A.  Debate events include:
     1. Policy, Parliamentary, Public Forum, Lincoln-Douglas, and Congress.
 A.  Debate Topics
     1. Policy and Public Forum shall follow the topics as designated by the NSDA and announced on www.speechanddebate.org  
     2. Lincoln-Douglas shall use the September/October NSDA topic announced August 15th during preliminary tournaments and the March/April topic announced February 1st during qualifiers.
     3. Parliamentary will change at each tournament and shall include topics of policy, value, and fact.
-    4. Congress topics will be released two weeks before the tournament date.
+    4. Congress topics will be released at least two weeks before the tournament date.
 
 ## Section 2: Student participation
 
@@ -172,14 +173,14 @@ A.  Additional Criteria for Novice Eligibility
 
 ## Section 4:  The officially designated coach of a team must be present for the team to compete in any league tournament.
 A.  Said designation to be in writing and approved by the school administration. The coach may be an administration-appointed parent rather than a district employee.
-A.  A coach from a school within the same district may supervise another school’s team, provided that both schools agree in writing prior to the beginning of the tournament and the CVFL President is notified of such arrangements
+A.  A coach from a school within the same district may supervise another school's team, provided that both schools agree in writing prior to the beginning of the tournament and the CVFL President is notified of such arrangements
 
 ## Section 5: Speech Event rules shall follow the guidelines provided in the CHSSA By-Laws, Article IX except in circumstances listed below:
 
 A.  Impromptu final round topics shall be allowed to include items not defined in the CHSSA By-Laws including but not limited to: images, comics, acronyms, or others approved by the executive council.
 
 ## Section 6: Speech Event Tabulation shall follow the CHSSA By-Laws as closely as is practicable for CVFL
-A.  Non-qualifying tournaments shall only have 3 total rounds with the preliminary rounds randomly paneled.
+A.  Non-qualifying speech tournaments' preliminary rounds shall be paneled randomly in advance.
 A.  A student who does not show up for a round shall be considered a No Show for that round. A No Show may continue competition for practice with the approval of the President but shall not be ranked with other active contestants as is practical for CVFL.
 
 ## Section 7: Debate Rules shall follow the guidelines established by the CHSSA Constitution By-Laws, Article XI.
@@ -225,28 +226,28 @@ A.  Trophies of descending size shall be awarded to the top three finalists in e
     2. Trophies will be given to the undefeated Debate teams.
     3. Award recipients shall appear in tournament dress.  Student not dressed appropriately will be asked to sit down; their coach may pick up their awards after the ceremony concludes.
 A.  Sweepstakes Awards
-    1. Each tournament’s award ceremony shall include recognition of team sweepstakes awards.
+    1. Each tournament's award ceremony shall include recognition of team sweepstakes awards.
     1. The tournament tabulation team will be responsible for generating all sweepstakes-related result reports.
     1. The top 5 schools shall be announced for sweepstakes results, with the top school earning custody of the traveling sweepstakes trophy. This trophy can be an informal trophy, like a broom (to represent the "sweeps" win). The winning school is required to return the traveling trophy at the start of the next league tournament.
     1. State-qualifying tournaments will combine the sweepstakes points earned from all state-qualifying tournaments and award the trophy at the conclusion of the final qualifying tournament. This team earns the title of 'league champion' for the competitive season.
     1. Sweepstakes awards are not tabulated for NSDA qualifying tournaments, as NSDA has their own mechanism ("trophy points") for school performance.
-    1. Sweepstakes awards are based solely on a school’s performance in the guaranteed ("prelim") rounds of a tournament.
+    1. Sweepstakes awards are based solely on a school's performance in the guaranteed ("prelim") rounds of a tournament.
     1. Each entry earns points per round of competition:
         i.  Debate: Win = 6 points, Bye = 4 points, Loss = 3 points
         i.  Congress: for each prelim round, 4 points for participating, 1 additional point for placing in the top 8, 1 additional point for top 6, 1 additional point for top 4, and 1 additional point for top 2 (max 8 points per round).
         i.  Presiding Officer: 6 points per round presided
         i.  Speech: 7 points minus rank in the round (eg. 1st = 6 points), minimum 2 points
-    1. School Sweepstakes awards are calculated based on the sum of the school’s top 6 entries for debate, and top 10 entries for speech.
-        i.  Note: this structure ensures that bringing more students helps a team’s sweepstakes performance, but that large schools do not automatically win by virtue of having the most entries.
+    1. School Sweepstakes awards are calculated based on the sum of the school's top 6 entries for debate, and top 10 entries for speech.
+        i.  Note: this structure ensures that bringing more students helps a team's sweepstakes performance, but that large schools do not automatically win by virtue of having the most entries.
     1. Novice and Varsity entries both count toward sweepstakes points; there are not separate categories for Novice and Varsity sweepstakes.
     1. Additional sweepstakes awards for small schools (with lower numbers of entries) can be recognized, at the discretion of the league President.
 A.  Team MVP Awards
-    1. Each tournament’s award ceremony shall include a "Team MVP" section, highlighting the top sweepstakes points-earner from each school.
-    1. Team MVP is calculated on an entry-by-entry basis. Double-entering does NOT improve a student’s Team MVP score (eg. a student who earns 7 points in Dramatic will earn MVP over a double-entered student from the same school that earns 4 sweepstakes points in Impromptu and 5 sweepstakes points in Oratory).
+    1. Each tournament's award ceremony shall include a "Team MVP" section, highlighting the top sweepstakes points-earner from each school.
+    1. Team MVP is calculated on an entry-by-entry basis. Double-entering does NOT improve a student's Team MVP score (eg. a student who earns 7 points in Dramatic will earn MVP over a double-entered student from the same school that earns 4 sweepstakes points in Impromptu and 5 sweepstakes points in Oratory).
     1. In the event of a tie, recognize all tied entries from the school.
     1. There is no requirement for a physical award for Team MVPs. The league can offer a small award for Team MVPs, such as a pin or sticker, at the discretion of the Vice President. However, it is just as acceptable to ask Team MVPs to rise when their name is called, single-clap them, and then have them remain standing for a round of applause once all MVPs are standing.
 A.  Spirit of Speech and Debate Award
-    1. Each tournament’s award ceremony shall include verbal recognition of a team award called the Spirit of Speech and Debate Award.
+    1. Each tournament's award ceremony shall include verbal recognition of a team award called the Spirit of Speech and Debate Award.
     1. Each school at a tournament is allowed to nominate one other school for this award.
     1. The league Secretary, or their proxy, shall send a nomination form for this award to participating schools prior to the start of the tournament, including instructions on the nomination criteria
         i.  These criteria include sportsmanship, inclusion, supportiveness, collegiality, and community-building.
@@ -255,38 +256,39 @@ A.  Spirit of Speech and Debate Award
     1. The secretary has discretion to disregard nominations that seem improper or that do not align to the spirit of the award. In the event of multiple award nominees, the secretary may choose a nominated school based on the quantity and quality of nominations for a given school.
     1. The winner shall be announced at the tournament's awards ceremony. There is no physical award associated with this award. It is just a recognition of good community-building. The winner can be posted on the Tabroom website, if desired.
 A.  Outstanding Judge Award
-    1. At the conclusion of each tournament, no later than 12PM the day after the tournament’s end, the league Secretary shall send a nomination form to coaches, to be used for nominating outstanding judges.
+    1. At the conclusion of each tournament, no later than 12PM the day after the tournament's end, the league Secretary shall send a nomination form to coaches, to be used for nominating outstanding judges.
     1. Students and coaches can each nominate outstanding judges, with no limit on the number of submissions.
     1. Outstanding judges should be nominated based on providing helpful, encouraging, and thoughtful feedback.
     1. The submission form shall include a short answer field to call out specific helpful or encouraging feedback.
     1. Nominations for outstanding judges ends at 11:59PM on the Wednesday following each tournament.
-    1. Nominated outstanding judges should be notified via email of their nomination by the Friday following a tournament’s conclusion.
+    1. Nominated outstanding judges should be notified via email of their nomination by the Friday following a tournament's conclusion.
     1. Every judge nominated for this award is a "winner" of the award. There is no ordinal ranking of "1st-most outstanding judge".
-    1. There is no physical award for outstanding judges. The secretary’s email should be sent to all coaches to provide recognition for the judges' achievements. This award is not announced at awards ceremonies.
-    1. The league can review outstanding judges’ ballots for use in training materials of what good feedback looks like.
+    1. There is no physical award for outstanding judges. The secretary's email should be sent to all coaches to provide recognition for the judges' achievements. This award is not announced at awards ceremonies.
+    1. The league can review outstanding judges' ballots for use in training materials of what good feedback looks like.
 
-A.  The President’s Award shall be given to all 4 year competitors who have qualified for at least one CHSSA or NSDA tournament.
+A.  The President's Award shall be given to all 4 year competitors who have qualified for at least one CHSSA or NSDA tournament.
 A.  CVFL All-League Award (Orator's Cup)
     1. Awarded to the top 7 competitors in the league as nominated and voted upon by the CVFL coaches
     2. Nominations will be sent via email to the league secretary along with a 100 word or less reason for the nomination. Coaches may nominate no more than 3 competitors.
     3. Voting shall commence online via a digital platform selected and controlled by the league Secretary, with only one coach representing each school casting a total of 5 votes.
     4. Winners shall be announced at the Speech Events State Qualifier.
     5. CVFL Secretary will compile nominations and votes for delivery to the President as soon as voting closes.
-    6. Award given shall be named "Orator’s Cup".
+    6. Award given shall be named "Orator's Cup".
 
 ## Section 4: Registration
 A.  Coaches will send their registration via the Tabroom.com website thirty-six hours prior to the tournament.
 A.  All coaches will be responsible for taking care of their drops immediately upon arrival to the tournament.  A drop less than 36 hours before the start of a tournament will still result in an entry fee for that contestant plus a $25 penalty.
 A.  Failure to register within 30 minutes prior to the beginning of a tournament may result in the drop of those students not registered.
 A.  No competitors will be added on the day of the tournament.
-A.  Novice and varsity students may enter two speech events in any panel at the discretion of their coach.
+A.  Students may enter two speech events in each panel at the discretion of their coach. At single-paneled tournaments, each school may designate up to two "triathletes" that may enter 3 speech events.
+    1. Students may not enter both extemporaneous speaking events at the same tournament.
 
 ## Section 5: Tabulation Rooms
 The Tab Room is closed to all people not assigned to the operation of the tournament. Violation of this rule shall result in immediate disqualification of the student entering the Tab Room.
 
 ## Section 6: Unauthorized video and/or audio-taping of any panel of events or debate is prohibited.
 
-Note taking or “flowing of the case” during a debate round is prohibited by anyone    other than a competitor in that round or a judge.
+Note taking or "flowing of the case" during a debate round is prohibited by anyone other than a competitor in that round or a judge.
 
 # Article VI: Reasonable Accommodation Policy
 
@@ -301,17 +303,17 @@ A.  The term major life activities means:
 A.  The term reasonable accommodation means:
     1. A modification or adjustment to any policy or rule that enables a qualified individual with a disability to enjoy an equal opportunity to compete that is not a fundamental alteration of the activity.
 A.  Any competitor may request a reasonable accommodation if such an accommodation is necessary for the competitor to enjoy an equal opportunity to compete.
-A.  Each request for an accommodation shall be reviewed on a case-by-case basis. The competitor, competitor’s coach and/or competitor’s parent will be involved in the process of determining potential reasonable accommodations. 
+A.  Each request for an accommodation shall be reviewed on a case-by-case basis. The competitor, competitor's coach and/or competitor's parent will be involved in the process of determining potential reasonable accommodations. 
 A.  Requests for reasonable accommodation shall specify the nature of the disability, the accommodation requested and the relationship between the disability and the requested accommodation.  The competitor shall not be required to disclose a medical diagnosis.  The CVFL has a Reasonable Accommodation Request Form which is recommended, but not required.
 A.  Requests for reasonable accommodation shall be made to the Capitol Valley Forensic League President.  Requests made more than 10 days prior to a tournament will be decided prior to the beginning of that tournament.
-A.  The Capitol Valley Forensic League President, or his or her designee, may grant the accommodation, request verification or discuss alternatives to the requested accommodation with the competitor, competitor’s coach and/or competitor’s parent.
+A.  The Capitol Valley Forensic League President, or his or her designee, may grant the accommodation, request verification or discuss alternatives to the requested accommodation with the competitor, competitor's coach and/or competitor's parent.
 A.  The league president may request verification of the nature of the disability and/or the relationship between the disability and requested accommodation.  Factors to be considered before requesting verification include: 
     1. Is the competitors known to have a disability? 
     2. Does the competitor have an observable disability?
     3. Does the request expand on an existing accommodation or previously provided accommodation for which verification was requested?
-A.  The league president may deny a reasonable accommodation request only if discussions with the competitor, competitor’s coach and/or competitor’s parent have failed to reach a mutually agreeable result.  The league president may deny a requested accommodation if:
-    1. The competitor’s condition does not meet the definition of disability.
-    2. The competitor’s disability is not related to the requested accommodation.
+A.  The league president may deny a reasonable accommodation request only if discussions with the competitor, competitor's coach and/or competitor's parent have failed to reach a mutually agreeable result.  The league president may deny a requested accommodation if:
+    1. The competitor's condition does not meet the definition of disability.
+    2. The competitor's disability is not related to the requested accommodation.
     3. The requested accommodation is a fundamental alteration of the activity. 
     4. The requested accommodation is an undue burden on the Capitol Valley Forensic League. 
     5. Any other reason allowed by the Americans with Disabilities Act or the California Unruh Civil Rights Act.
