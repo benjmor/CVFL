@@ -179,6 +179,9 @@ A.  A coach from a school within the same district may supervise another school'
 
 A.  Impromptu final round topics shall be allowed to include items not defined in the CHSSA By-Laws including but not limited to: images, comics, acronyms, or others approved by the executive council.
 
+A.  NSDA's "artistic plagiarism" rule shall be enforced.
+    1. As of April 17, 2025, the rule states: "Videos of previous final round performances and/or other video media are intended to provide educational examples for coaches and students. They are not intended to serve as a model to directly imitate or duplicate in performance. Although universal human emotions may lead to similarities in portrayal of characters, wholesale impersonation, including cutting, blocking, and/or interpretation (verbal and/or nonverbal portrayal of characters and text) of material of previous semifinal round, final round, and other video media performances is prohibited and grounds for penalty. Given the extent of the artistic plagiarism, the performance penalty may range from lowering the ranking in the round to disqualification. It is the burden of proof of the individual filing the protest to provide documented evidence of the artistic plagiarism demonstrated in the performance. This includes providing access to the plagiarized video material and written verification of examples to substantiate the complaint."
+
 ## Section 6: Speech Event Tabulation shall follow the CHSSA By-Laws as closely as is practicable for CVFL
 A.  Non-qualifying speech tournaments' preliminary rounds shall be paneled randomly in advance.
 A.  A student who does not show up for a round shall be considered a No Show for that round. A No Show may continue competition for practice with the approval of the President but shall not be ranked with other active contestants as is practical for CVFL.
