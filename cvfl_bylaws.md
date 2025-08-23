@@ -290,6 +290,26 @@ The Tab Room is closed to all people not assigned to the operation of the tourna
 
 Note taking or "flowing of the case" during a debate round is prohibited by anyone other than a competitor in that round or a judge.
 
+## Section 7: Step-by-Step Process for Determining State Qualifiers in the Case of Multiple Qualifications
+
+These steps outline the process for how qualifier and alternate spots are allocated for the state tournament. Throughout this process, the guiding principle is to send the best competitors to state and avoid using the preference form to override tournament results in a way that prioritizes alternate advancement over competitive fairness.
+
+A.  Students Submit Preferences
+    1. Before the conclusion of the state qualifier, students indicate their event preferences in case they qualify in multiple events. 
+A.  Qualifier Status is Determined
+    1. After the tournament, the league president reviews the results to determine who qualifies for state. The league president distinguishes between:
+        a. Qualifiers: Those who place within the league’s designated number of state qualification spots.
+        b. Alternates: Those who place outside the qualification band but may move up if spots become available.
+A.  Initial Review of Multiple Qualifications
+    1. If a student qualifies in more than one event, the president uses the preference documents or preference survey to reconcile final qualifications. This is the only moment in the process by which a student may be compelled to forfeit a qualification slot. 
+A.  Consultation with Qualifiers and Coaches
+    1. The president informs coaches via email to confirm qualification preferences. This email checks that the tournament results and the preference documents were interpreted correctly. The initial email is not an invitation for coaches and students to change the preferences as stated in the preference form.
+    1. If a student is an alternate in one event but a qualifier in another, they may choose to forfeit their qualification to move up as an alternate in another event. It is the duty of coaches to make a choice in the best interest of their qualifiers and support the mental health of qualifiers in this process.
+A.  Alternate Advancement
+    1. If a student forfeits their qualification in one event, the highest-ranked alternate in that event moves up. However, alternates do not have the right to claim a qualifier’s spot unless the qualifier chooses to release it.
+A.  Final Roster Confirmation
+    1. The league president confirms a finalized list of qualifiers and alternates with all coaches before submission to the area chair before the deadline set by the CHSSA Vice President. 
+
 # Article VI: Reasonable Accommodation Policy
 
 ## Section 1: Definitions
