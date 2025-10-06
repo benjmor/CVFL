@@ -177,6 +177,8 @@ A.  A coach from a school within the same district may supervise another school'
 
 ## Section 5: Speech Event rules shall follow the guidelines provided in the CHSSA By-Laws, Article IX except in circumstances listed below:
 
+A.  In novice speech events, students shall be allowed to use manuscripts or other written/printed materials for the purposes of remembering the contents of their speech. Usage of notes is subject to judge critique.
+
 A.  Impromptu final round topics shall be allowed to include items not defined in the CHSSA By-Laws including but not limited to: images, comics, acronyms, or others approved by the executive council.
 
 A.  NSDA's "artistic plagiarism" rule shall be enforced.
