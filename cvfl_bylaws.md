@@ -181,6 +181,8 @@ A.  In novice speech events, students shall be allowed to use manuscripts or oth
 
 A.  Impromptu final round topics shall be allowed to include items not defined in the CHSSA By-Laws including but not limited to: images, comics, acronyms, or others approved by the executive council.
 
+A.  If an impromptu competitor has not spoken yet, that competitor is not allowed to spectate other impromptu speakers.
+
 A.  NSDA's "artistic plagiarism" rule shall be enforced.
     1. As of April 17, 2025, the rule states: "Videos of previous final round performances and/or other video media are intended to provide educational examples for coaches and students. They are not intended to serve as a model to directly imitate or duplicate in performance. Although universal human emotions may lead to similarities in portrayal of characters, wholesale impersonation, including cutting, blocking, and/or interpretation (verbal and/or nonverbal portrayal of characters and text) of material of previous semifinal round, final round, and other video media performances is prohibited and grounds for penalty. Given the extent of the artistic plagiarism, the performance penalty may range from lowering the ranking in the round to disqualification. It is the burden of proof of the individual filing the protest to provide documented evidence of the artistic plagiarism demonstrated in the performance. This includes providing access to the plagiarized video material and written verification of examples to substantiate the complaint."
 
