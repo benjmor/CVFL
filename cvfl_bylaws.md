@@ -129,7 +129,7 @@ A.  Debate events include:
     1. Policy, Parliamentary, Public Forum, Lincoln-Douglas, and Congress.
 A.  Debate Topics
     1. Policy and Public Forum shall follow the topics as designated by the NSDA and announced on www.speechanddebate.org  
-    2. Lincoln-Douglas shall use the September/October NSDA topic announced August 15th during preliminary tournaments and the March/April topic announced February 1st during qualifiers.
+    2. Lincoln-Douglas shall use the NSDA topic based on the month in which the tournament occurs. LD will not use the NSDA’s perennial "novice" topic.
     3. Parliamentary will change at each tournament and shall include topics of policy, value, and fact.
     4. Congress topics will be released at least two weeks before the tournament date.
 
