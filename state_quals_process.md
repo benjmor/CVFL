@@ -12,7 +12,7 @@ The Capitol Valley Forensics League (CVFL) follows the California High School Sp
 
 ## General and Administrative Information
 
-1. Tournaments will be held at locations as published on the [cvfl.org/tournamentschedule](CVFL website). 
+1. Tournaments will be held at locations as published on the [CVFL website](cvfl.org/tournamentschedule). 
 1. Tournaments will be tabulated by the league President and Vice-Preisdent or their designee(s).
 
 ## Protests
