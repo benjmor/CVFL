@@ -7,11 +7,40 @@ output: pdf_document
 ---
 
 # Overview
-The Capitol Valley Forensics League (CVFL) follows the California High School Speech Association (CHSSA) rules as closely as possible, given the constraints of smaller tournament sizes and judging availability. Below are the CVFL-specific rules for qualification to the state tournament.
+
+The Capitol Valley Forensics League (CVFL) follows the California High School Speech Association (CHSSA) rules as closely as possible, given the constraints of smaller tournament sizes and judging availability. CVFL state qualifier tournaments shall adhere to CVFL Bylaws, where relevant. Below are the CVFL-specific procedures for qualification to the CHSSA state tournament.
+
+## General and Administrative Information
+
+1. Tournaments will be held at locations as published on the [cvfl.org/tournamentschedule](CVFL website). 
+1. Tournaments will be tabulated by the league President and Vice-Preisdent or their designee(s).
+
+## Protests
+
+Protests shall follow procedures outlined in CVFL Bylaw Article V, "Section 1: General Administration."
+
+## Eligibility
+
+For student eligibility details, see CVFL Bylaw Article IV, "Section 2: Student participation."
+
+## Auto-Qualification
+
+For debate auto-qualification details, see CVFL Bylaw Article IV, "Section 8: Debate Tabulation."
+
+## Judge Training Requirements
+
+CVFL does not require specific judge training, though highly recommends reviewing the judge training recordings that are sent to registered judges the week of each tournament.
 
 # Speech Events
 
+Speech rounds will be judged by 1 judge per preliminary round and 3 judges per semi-final and final round.
+
+## Low-judge contingency exception
+
+If insufficient judges are available to allocate 3 judges per semi-final round, 1-judge rooms may be used, with tiebreakers updated to weight the semi-final equally to preliminary rounds. Events with fewest total entrants should be switched to 1-judge rooms before other events.
+
 ## Preliminary Rounds
+
 A.  Events with more than 14 entries:
       1. Two rounds of preliminaries.
       1. Semi-finals with up to 14 competitors.
@@ -51,7 +80,7 @@ A.  All entries qualify automatically to state and do not need to conduct any de
 A.  Coaches of teams in a small-entry event may request that their teams debate during some or all of the preliminary rounds. CVFL will accomodate these requests to the extent possible, considering opponent availability, judge availability, and room availability.
 
 ## Preliminary Rounds
-A.  Three preliminary rounds.
+A.  Three preliminary rounds, each judged by 1 judge.
 B.  Round 1 is randomly paired.
 C.  Rounds 2 and 3 are power-matched, avoiding school conflicts if possible (if unavoidable, the affected coach will be informed at the start of the tournament).
       1. Pull-ups will be used to avoid school conflicts during prelims, if required.
@@ -63,6 +92,8 @@ A.  Teams are seeded based on:
     1. Average seed of opponents faced.
 
 ## Elimination Rounds
+
+A.  Elimination rounds should be judged by a panel of 3 judges.
 A.  Brackets are set as follows:
     1. If 8 or fewer advancing entries, start with quarter-finals.
     1. If 9-16 advancing entries, start with octo-finals.
@@ -108,10 +139,6 @@ A.  Final round: at least three judges.
 # Presiding Officer Competition
 A.  POs are ranked based on votes from students and judges in each round.
 A.  Top two POs with the most votes advance to finals, with total votes serving as the tie-breaker.
-
-## Procedural Guidelines
-
-POs maintain decorum and enforce CHSSA guidelines, including recency, and speaking times.
 
 # Additional Notes
 
