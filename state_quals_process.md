@@ -1,7 +1,7 @@
 ---
 title: "CVFL Rules for State Tournament Qualification"
 author: Capitol Valley Forensic League
-date: December 14, 2024
+date: December 20, 2025
 geometry: margin=2cm
 output: pdf_document
 ---
