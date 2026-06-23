@@ -190,7 +190,12 @@ A.  NSDA's "artistic plagiarism" rule shall be enforced.
 A.  Non-qualifying speech tournaments' preliminary rounds shall be paneled randomly in advance.
 A.  A student who does not show up for a round shall be considered a No Show for that round. A No Show may continue competition for practice with the approval of the President but shall not be ranked with other active contestants as is practical for CVFL.
 
-## Section 7: Debate Rules shall follow the guidelines established by the CHSSA Constitution By-Laws, Article XI.
+## Section 7: Debate Rules shall follow the guidelines established by the CHSSA Constitution By-Laws, Article XI, with exceptions noted below.
+
+A.  No-Tech Parli Rounds
+    1. Specific rounds of parliamentary debate will be designated as "no-tech" rounds. When the topic is announced, tournament officials should indicate whether the round allows electronic devices in prep, or disallows them.
+    2. In all rounds, during preparation time, debaters may consult physical, non-electronic materials, including both prepared notes and published sources. Debaters may not communicate with individuals other than their partner.
+    3. In "no-tech" rounds, debaters may not consult electronic materials (eg. computers, phones). In "tech" rounds, CHSSA rules around electronic device usage apply.
 
 ## Section 8: Debate Tabulation.
 A.  Non-qualifying tournaments
