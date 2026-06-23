@@ -136,7 +136,7 @@ A.  Debate Topics
 ## Section 2: Student participation
 
 A.  All students who are ninth through twelfth grade must be enrolled in and attending a member school and be in compliance with CHSSA eligibility requirements to attend league tournaments.
-A.  Students must participate in one "like" event in a league tournament in the current school year in order to participate in the State Qualifier. For the purpose of state qualification, "like" events are defined as:
+A.  Students must participate in one "like" event in a league tournament (or the Sacramento diocese NCFL qualifer) in the current school year in order to participate in the State Qualifier. For the purpose of state qualification, "like" events are defined as:
     1. Interpretative events (humorous, program oral, dramatic, declamation, duo)
     2. Original events (original oratory, original advocacy, original prose/poetry, informative)
     3. Spontaneous events (National Extemporaneous, International Extemporaneous, Impromptu)
