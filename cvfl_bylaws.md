@@ -160,7 +160,9 @@ A.  Automatic Criteria for Varsity Promotion
         a.  Teams that achieve a 4-0 record once are automatically promoted to Varsity and are no longer eligible for novice.
         a.  Teams that achieve a 3-1 record twice are automatically promoted to Varsity and are no longer eligible for novice.
     1.  Speech events
-        a.  Students shall be eligible for the novice division if they have not competed in finals of a speech event with more than 7 entries.
+        a.  Students shall be eligible for the novice division if they meet the following criteria:
+            i. have not competed twice in finals of a speech event with more than 7 entries.
+            ii. have not placed in the top three of a speech event
         a.  Students' eligibility for novice in speech is based on the event type (eg. reaching finals in Impromptu makes a student ineligible for Novice Extemp, but does not make them ineligible for Novice Informative).
     1.  Congress
         a.  Congress shall have no novice divisions.
