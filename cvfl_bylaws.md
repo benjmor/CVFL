@@ -9,11 +9,13 @@ output: pdf_document
 
 ## Section 1: Assessments and Fees
 
-A.  School assessments: All schools shall pay $150 per year for CVFL membership.
+A.  School assessments: All schools shall pay $175 per year for CVFL membership.
+    1. This includes a $25 surcharge to support our NSDA district, the Capitol Valley District.
     1. Invoices shall be sent by CVFL in September.
-    2. Upon receipt of the official invoice from CVFL each school shall mail its payment to the Treasurer whose address shall be found on the form.
-    3. All checks shall be made payable to CVFL.
-    4. November 1st of each year shall be the deadline for payment. A late fee of $50 shall be assessed for payment after November 1st.
+    1. Upon receipt of the official invoice from CVFL each school shall mail its payment to the Treasurer whose address shall be found on the form.
+    1. All checks shall be made payable to CVFL.
+    1. November 1st of each year shall be the deadline for payment. A late fee of $50 shall be assessed for payment after November 1st.
+    1. Schools with 6 or fewer unique students who participated in CVFL tournaments in the academic year may instead pay $25 per student.
 
 A.  Tournament Fees: Contestant schools in a CVFL Tournament shall pay fees as outlined below.
     1. All entry fees for regular tournaments for the league schedule shall be established by the CVFL board at a CVFL meeting before the school year begins. Entry costs for two-day tournaments may be higher than single-day tournaments.
