@@ -1,7 +1,7 @@
 ---
 title: "By-Laws of the Capitol Valley Forensic League"
 author: Capitol Valley Forensic League
-date: June 22, 2026
+date: November 9, 2026
 geometry: margin=2cm
 output: pdf_document
 ---
