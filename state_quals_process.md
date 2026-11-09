@@ -79,10 +79,6 @@ A.  All entries qualify automatically to state and do not need to conduct any de
       1. If CHSSA by-laws require qualification round debates to be held, CHSSA rules supersede CVFL rules, and the rounds must be held. As of March 2025, the closest bylaw that addresses this is CHSSA Article VII.6.D.2.a, which states "The League shall hold the tournament or event(s) to determine the qualifiers for that League. For example, if League X should have three qualifiers in oratory and there were fewer than five schools entered in oratory, League X would hold the event at the state qualification tournament to determine its top three contestants." This does not seem to address the case where there are fewer entries than the number of qual spots, however.
 A.  Coaches of teams in a small-entry event may request that their teams debate during some or all of the preliminary rounds. CVFL will accomodate these requests to the extent possible, considering opponent availability, judge availability, and room availability.
 
-## PO Alternate Policy
-
-If all PO qualifiers and alternates yield their spots, PO spot(s) may be offered to the next Congress alternate.
-
 ## Preliminary Rounds
 A.  Three preliminary rounds, each judged by 1 judge.
 B.  Round 1 is randomly paired.
@@ -144,6 +140,7 @@ A.  Final round: at least three judges.
 # Presiding Officer Competition
 A.  POs are ranked based on votes from students and judges in each round.
 A.  Top two POs with the most votes advance to finals, with total votes serving as the tie-breaker.
+A.  Students that compete in the Congress state qualifier tournament but do not qualify in Congress are automatically added to the alternate list for Presiding Officer (in addition to being on the Congress alternate list).
 
 # Additional Notes
 
